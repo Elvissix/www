@@ -1,0 +1,5 @@
+/*
+  Cache-Control: no-cache
+  Content-Security-Policy: upgrade-insecure-requests
+/static/*
+  Cache-Control: max-age=315360000
